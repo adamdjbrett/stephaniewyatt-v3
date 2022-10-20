@@ -86,3 +86,5 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+  - jekyll-sitemap
+  - jekyll-feed
