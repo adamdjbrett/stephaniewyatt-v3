@@ -10,7 +10,7 @@ published: true
 
 Greetings! I am the Rev. Dr. Stephanie M. Wyatt, an ordained Baptist minister with a Ph.D. in Biblical Interpretation. I find vocational fulfillment through congregational ministry and teaching biblical studies to students preparing for ministerial careers. In this way I seek to keep one foot in the church and one in the academy in ways that benefit both spheres. In my free time I enjoy paper crafting, outdoor music concerts, arts & crafts fairs, learning about art and architecture, visiting museums, traveling, thrift shopping, and playing with my niece and nephew. Personally, I am engaging, empathetic, approachable, cooperative, flexible, pragmatic, and thoughtful with a fun-loving spirit.
 
-## xMy Life in Books
+## My Life in Books
 
 A few years ago I heard a radio interview on NPR with an author of a novel in which the narrator introduces each character in terms of three books that best describes him or her. I pondered this idea in search of three books that would form a composite image of who I am and what my values are. I selected Jane Austen's *Pride and Prejudice*, Philip Halle's *Lest Innocent Blood Be Shed*, and Christopher Hill's *Holidays and Holy Nights*.
 

@@ -1,5 +1,6 @@
 # CHNAGELOG
 - add header images to blog
+- add  break to blog page
 
 # Gradfolio
 
