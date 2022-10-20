@@ -1,9 +1,6 @@
 ---
 title: Copyright Information
 date: 2016-04-09T18:02:53+00:00
-author: Stephanie Wyatt
-layout: page
-read_time: true
 permalink: /copyright/
 ---
 ## Profile Photo
