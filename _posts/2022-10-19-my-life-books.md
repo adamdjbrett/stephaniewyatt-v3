@@ -1,6 +1,6 @@
 ---
 title: "My Life in Books"
-date: 2022-10-20T08:23:42+00:00
+date: 2022-10-19T08:23:42+00:00
 permalink: /my-life-books/
 tags:
   - reading
