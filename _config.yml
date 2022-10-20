@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Stephanie M. Wyatt
+description: Minister | Community Builder | Teacher-Scholar
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+#baseurl: /gradfolio #name of GitHub repository
+url: "https://www.stephaniewyatt.net/" #custom url to be used instead of GitHub repository
+email: stephanie@stephaniewyatt.net
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "https://www.linkedin.com/in/stephaniemwyatt/"
+#twitter: "#"
+#stackoverflow: "#"
+#github: "#"
+#researchgate: "#"
+#orcid: "#"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
 
 
 # Markdown
@@ -41,6 +41,14 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: post
+    values:
+      layout: single
 
 #collection
 collections:
