@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Life in Books"
 date: 2022-10-20T08:23:42+00:00
 permalink: /my-life-books/

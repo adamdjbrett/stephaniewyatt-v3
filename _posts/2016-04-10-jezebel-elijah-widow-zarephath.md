@@ -2,8 +2,6 @@
 title: "Jezebel, Elijah, and the Widow of Zarephath"
 excerpt_separator: "<!--more-->"
 date: 2016-04-10T15:04:24+00:00
-layout: post
-read_time: true
 permalink: /jezebel/
 tags:
   - scholarship
