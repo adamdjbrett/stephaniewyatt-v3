@@ -1,7 +1,7 @@
 # CHNAGELOG
 - add header images to blog
-- add  break to blog page
-- add bold, italics, underline
+- add break to blog page
+- add bold to CSS
 
 # Gradfolio
 
