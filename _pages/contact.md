@@ -4,11 +4,9 @@ date: 2016-04-09T16:10:30+00:00
 permalink: /contact/
 ---
 - [stephanie@stephaniewyatt.net](mailto:stephanie@stephaniewyatt.net)
-- [vCard](/documents/stephaniewyatt.tel.vcf)
 - [LinkedIn](http://stephaniewyatt.in)
 - [academia.edu](https://tcu.academia.edu/StephanieWyatt)
 - [Google Scholar](https://scholar.google.com/citations?user=43gFBr8AAAAJ)
-- [ORCID](https://orcid.org/0000-0002-4472-5316)
 
 <!-- modify this form HTML and place wherever you want your form -->
 
