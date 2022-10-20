@@ -1,10 +1,7 @@
 ---
 title: Contact
 date: 2016-04-09T16:10:30+00:00
-author: Stephanie Wyatt
-layout: page
 permalink: /contact/
-read_time: true
 ---
 - [stephanie@stephaniewyatt.net](mailto:stephanie@stephaniewyatt.net)
 - [vCard](/documents/stephaniewyatt.tel.vcf)
